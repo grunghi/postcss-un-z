@@ -1,6 +1,6 @@
 {
   "name": "postcss-un-z",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "PostCSS that de-ruzzificates your CSS.",
   "keywords": ["postcss", "css", "postcss-plugin", "postcss-un-z"],
   "scripts": {
