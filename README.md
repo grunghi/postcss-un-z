@@ -1,6 +1,6 @@
 # postcss-un-z
 
-[PostCSS] de-ruzzificate your CSS.
+De-ruzzificate your CSS.
 
 This plugin  let`s you write u-index instead of z-index in your CSS, because fuck RuZZia.
 
