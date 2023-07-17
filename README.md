@@ -2,7 +2,7 @@
 
 De-ruzzificate your CSS.
 
-This plugin  let`s you use ```u-index``` instead of ```z-index``` in your CSS, because fuck RuZZia.
+This plugin  let's you use `u-index` instead of `z-index` in your CSS, because fuck RuZZia.
 
 [PostCSS]: https://github.com/postcss/postcss
 
